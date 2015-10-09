@@ -8,6 +8,7 @@
 
 #import "UUMessageFrame.h"
 #import "UUMessage.h"
+#import <UIKit/UIKit.h>
 
 @implementation UUMessageFrame
 

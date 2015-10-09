@@ -5,9 +5,8 @@
 //  Created by shake on 14-9-1.
 //  Copyright (c) 2014年 shake. All rights reserved.
 //
-
+#import <UIKit/UIKit.h>
 #import <AVFoundation/AVFoundation.h>
-
 
 @protocol UUAVAudioPlayerDelegate <NSObject>
 

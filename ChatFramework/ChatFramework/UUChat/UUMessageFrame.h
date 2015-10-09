@@ -6,6 +6,10 @@
 //  Copyright (c) 2014年 uyiuyao. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "ACMacros.h"
+
 #define ChatMargin 10       //间隔
 #define ChatIconWH 44       //头像宽高height、width
 #define ChatPicWH 200       //图片宽高
